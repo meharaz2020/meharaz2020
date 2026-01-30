@@ -28,7 +28,7 @@ Enthusiastic backend developer with solid development skills and a passion for d
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> -->
 
-<img src="https://user-images.githubusercontent.com/59823440/218288756-03cccb9b-1586-4c57-8cbc-b96939af5bfc.png" width="100%"/>
+<!-- <img src="https://user-images.githubusercontent.com/59823440/218288756-03cccb9b-1586-4c57-8cbc-b96939af5bfc.png" width="100%"/> -->
 
 <h3>:man_technologist: About Me :</h3> <br>
 👑 Database Developer & Analyst<br>
